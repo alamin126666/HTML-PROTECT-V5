@@ -1,0 +1,3 @@
+[unit]
+language = "python"
+entrypoint = "main.py"
